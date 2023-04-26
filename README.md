@@ -25,3 +25,6 @@ Feature engineering was performed to create new features that could improve the 
 The model's performance was evaluated using various metrics, including mean squared error (MSE) and R-squared. Finally, the best-performing model was selected and deployed to a web application to enable users to input app features and receive predictions on the app's rating.
 
 The web application was built using Flask, a Python web framework, and deployed on Heroku, making it accessible to the public. The project documentation includes a detailed description of the data sources, data preprocessing steps, feature engineering, model selection, and evaluation metrics.
+
+## Results
+![image](https://user-images.githubusercontent.com/66858598/234701865-ec25c779-1837-4ca1-9a0b-e2bf288bb529.png)
